@@ -1,0 +1,9 @@
+﻿  Server-Eremeev-Winsock.cpp
+C:\Users\Tertan41k\Desktop\Eremeev-Winsock\Server-Eremeev-Winsock\Server-Eremeev-Winsock\Server-Eremeev-Winsock.cpp(26,57): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Tertan41k\Desktop\Eremeev-Winsock\Server-Eremeev-Winsock\Server-Eremeev-Winsock\Server-Eremeev-Winsock.cpp(73,69): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Tertan41k\Desktop\Eremeev-Winsock\Server-Eremeev-Winsock\Server-Eremeev-Winsock\Server-Eremeev-Winsock.cpp(196,55): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 261 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  Server-Eremeev-Winsock.vcxproj -> C:\Users\Tertan41k\Desktop\Eremeev-Winsock\Server-Eremeev-Winsock\x64\Release\Server-Eremeev-Winsock.exe
